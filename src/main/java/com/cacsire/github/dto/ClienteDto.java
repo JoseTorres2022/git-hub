@@ -1,6 +1,4 @@
-package com.std.ec.model.dto;
-
-import jakarta.persistence.*;
+package com.cacsire.github.dto;
 import lombok.*;
 
 import java.io.Serializable;
